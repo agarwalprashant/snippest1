@@ -1,0 +1,14 @@
+<template name="layout1">
+    {{>navbarcart}}
+    <div class="container-fluid">
+        <div class="row">
+            <div class="span2">
+                {{>yield 'categories'}}
+            </div>
+            <div class="span7 prodlist">
+                {{>yield 'products'}}
+            </div>
+
+        </div>
+    </div>
+</template>

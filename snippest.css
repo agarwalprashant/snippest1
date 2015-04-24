@@ -1,0 +1,89 @@
+/* CSS declarations go here */
+.span4{
+    min-width:300px;
+
+}
+.well{
+    margin:5px ;
+}
+.AddPinrep{
+    background: rgba(0, 0, 0, 0.03);
+    border: 2px dashed #bbb;
+    border-radius: 6px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #888;
+    cursor: pointer;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    text-align: center;
+    text-shadow: 0 1px 1px #fff;
+    width: 236px;
+    height: 297px;
+    left: 30px;
+    padding-top: 130px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+
+
+}
+
+
+
+#interests{
+    cursor: pointer;
+}
+.pages{
+    cursor: pointer;
+}
+.myprofile{
+
+    cursor: pointer;
+}
+#friends{
+    cursor: pointer;
+}
+.minty{
+    cursor: pointer;
+}
+.shoppingcart{
+    cursor: pointer;
+}
+
+
+div.detail{
+    color: #ffffff;
+    font-family: 'Helvetica Neue','Helvetica';
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+}
+div.title{
+    color: #ffffff;
+    font-family: 'Helvetica Neue','Helvetica';
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+
+}
+
+#mydiv{
+    background-image: url("/snnipest.jpg"),url("/back.jpg"),url("/pin.png");
+    background-position: center,left top;
+    background-repeat: no-repeat,no-repeat;
+    width: 1366px;
+    height: 581px;
+    background-color: rgb(232, 186, 155);
+
+}
+.more{
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+    color: #ffffff;
+
+}
+

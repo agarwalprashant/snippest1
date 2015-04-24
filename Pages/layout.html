@@ -1,0 +1,38 @@
+<template name="ApplicationLayout">
+
+    {{> nav}}
+
+    <header>
+        <h1>{{title}}</h1>
+    </header>
+
+    <aside>
+      <h1>  {{> yield "aside"}}</h1>
+    </aside>
+
+    <article>
+        {{> yield}}
+    </article>
+
+    <footer>
+        <h1>  {{> yield "footer"}}</h1>
+    </footer>
+</template>
+
+
+
+
+<template name="Post">
+    <p>
+        {{post_content}}
+    </p>
+</template>
+
+<template name="PostFooter">
+    Some post specific footer content.
+</template>
+
+<template name="PostAside">
+
+    Some post specific aside content.
+</template>

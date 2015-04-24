@@ -1,0 +1,55 @@
+
+    <!--<link rel="import" href="../public/bower_components/paper-button/paper-button.html">-->
+
+
+    <!--<polymer-element name="prashant-agarwal" noscript>-->
+
+<template name="explorer">
+
+
+
+    {{> nav}}
+    {{> main}}
+{{> nyTimes}}
+
+</template>
+
+
+
+
+    <template name="nyTimes">
+
+        <div>
+           <h1><em>New tweets<small>Secondary text</small></em></h1>
+
+            <!--<a href="#" id="submit" class="btn btn-warning">get latest news</a>-->
+        </div>
+
+
+        <form class="form-horizontal">
+
+         <input type="text" class="form-control" id="searchterm" placeholder="Search for latest News of people that interest you">
+
+           <paper-button><a href="#" class="btn btn-danger search" >Search</a></paper-button>
+
+
+        </form>
+        <div>
+        <ol id="tweets">
+
+        </ol>
+        </div>
+
+    </template>
+   <!--</polymer-element>-->
+
+
+
+
+
+
+
+
+
+
+

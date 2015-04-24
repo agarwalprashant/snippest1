@@ -1,0 +1,1172 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "e2b4ffbdcd0c4dc1e648955af6c9b49169efba20.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/e2b4ffbdcd0c4dc1e648955af6c9b49169efba20.js",
+      "size": 593473,
+      "hash": "e2b4ffbdcd0c4dc1e648955af6c9b49169efba20"
+    },
+    {
+      "path": "6df4b67bc60712c1bfb25fcc138b9928da73d216.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/6df4b67bc60712c1bfb25fcc138b9928da73d216.css?meteor_css_resource=true",
+      "size": 136555,
+      "hash": "6df4b67bc60712c1bfb25fcc138b9928da73d216"
+    },
+    {
+      "path": "packages/bootstrap/img/glyphicons-halflings.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap/img/glyphicons-halflings.png",
+      "size": 12799,
+      "hash": "84f613631b07d4fe22acbab50e551c0fe04bd78b"
+    },
+    {
+      "path": "packages/bootstrap/img/glyphicons-halflings-white.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bootstrap/img/glyphicons-halflings-white.png",
+      "size": 8777,
+      "hash": "a25c4705320fd63c33790e666872910e702b9bf6"
+    },
+    {
+      "path": "app/back.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/back.jpg",
+      "size": 126748,
+      "hash": "6fc0ea17812ccace59569caf6c6a59a5825e4363"
+    },
+    {
+      "path": "app/button.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/button.png",
+      "size": 27328,
+      "hash": "47866651db0bce771af2bd856cc8e95bde7b3b18"
+    },
+    {
+      "path": "app/pin.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/pin.png",
+      "size": 6490,
+      "hash": "f91dfecb9b48ecb40139165ff03c85bcd5011403"
+    },
+    {
+      "path": "app/shop.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/shop.jpg",
+      "size": 19413,
+      "hash": "3bb86a68b86f296b792b9782d81b03e1a559132a"
+    },
+    {
+      "path": "app/snnipest.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/snnipest.jpg",
+      "size": 19561,
+      "hash": "4dc7056d7124df67fb082c8c9ca4e60e7627f8d0"
+    },
+    {
+      "path": "app/unlike.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/unlike.jpg",
+      "size": 3850,
+      "hash": "e91dafece59bec8bc84ffe473a230c783f5bfad6"
+    },
+    {
+      "path": "app/bower_components/core-a11y-keys/.bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-a11y-keys/.bower.json",
+      "size": 658,
+      "hash": "39606d5e891b3c35aed8df07aa7010d000445de6"
+    },
+    {
+      "path": "app/bower_components/core-a11y-keys/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-a11y-keys/README.md",
+      "size": 154,
+      "hash": "1c2e794df526bc3201576b0405c1b9be3e84fa92"
+    },
+    {
+      "path": "app/bower_components/core-a11y-keys/bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-a11y-keys/bower.json",
+      "size": 324,
+      "hash": "5e9896b1b26ae5cfab6b5488623b0ce73f2fc0e5"
+    },
+    {
+      "path": "app/bower_components/core-a11y-keys/core-a11y-keys.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-a11y-keys/core-a11y-keys.html",
+      "size": 10757,
+      "hash": "3d4defc5d105c168568f98a0a04b113d5d4b3804"
+    },
+    {
+      "path": "app/bower_components/core-a11y-keys/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-a11y-keys/demo.html",
+      "size": 1432,
+      "hash": "73adc7141dbf43a6a19d5c48594ba5825d731951"
+    },
+    {
+      "path": "app/bower_components/core-a11y-keys/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-a11y-keys/index.html",
+      "size": 749,
+      "hash": "31a1a6da546f2c243784d0ee078b2bb392d024d8"
+    },
+    {
+      "path": "app/bower_components/core-component-page/.bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-component-page/.bower.json",
+      "size": 543,
+      "hash": "b61d2b8fca04a1b25205fc30afdc1a3d90de40a2"
+    },
+    {
+      "path": "app/bower_components/core-component-page/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-component-page/README.md",
+      "size": 304,
+      "hash": "6d8e698ba4b11a5bf6efd62b3650fa679fd2f97a"
+    },
+    {
+      "path": "app/bower_components/core-component-page/bowager-logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-component-page/bowager-logo.png",
+      "size": 5165,
+      "hash": "717c7bc12a58260d4a56a0c30804413b94a5f7b1"
+    },
+    {
+      "path": "app/bower_components/core-component-page/bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-component-page/bower.json",
+      "size": 194,
+      "hash": "6d90cb4101e73a57131b87880467984825355555"
+    },
+    {
+      "path": "app/bower_components/core-component-page/core-component-page.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-component-page/core-component-page.html",
+      "size": 141515,
+      "hash": "e8e5e12fc4453f498de5134c36fd57e2dc61786e"
+    },
+    {
+      "path": "app/bower_components/core-component-page/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-component-page/demo.html",
+      "size": 802,
+      "hash": "2e86edcabc01599af27815b33df0f34c4dc14d88"
+    },
+    {
+      "path": "app/bower_components/core-component-page/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-component-page/index.html",
+      "size": 749,
+      "hash": "31a1a6da546f2c243784d0ee078b2bb392d024d8"
+    },
+    {
+      "path": "app/bower_components/core-focusable/.bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-focusable/.bower.json",
+      "size": 469,
+      "hash": "069a6f1935cc9050c48b83f208f923fcf1831bf6"
+    },
+    {
+      "path": "app/bower_components/core-focusable/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-focusable/README.md",
+      "size": 176,
+      "hash": "4de9d4efbb8bbfd1ec550d6562743b36b9e4df2f"
+    },
+    {
+      "path": "app/bower_components/core-focusable/bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-focusable/bower.json",
+      "size": 135,
+      "hash": "66ccfbb8973837019d759ee54cce985a815c0079"
+    },
+    {
+      "path": "app/bower_components/core-focusable/core-focusable.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-focusable/core-focusable.html",
+      "size": 135,
+      "hash": "1a30279dd3bfa94faf5b8c933d6818c72cb1f015"
+    },
+    {
+      "path": "app/bower_components/core-focusable/core-focusable.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-focusable/core-focusable.js",
+      "size": 3066,
+      "hash": "63df5ef3f8453c710a3fb1ca93fef114bb2e1e0a"
+    },
+    {
+      "path": "app/bower_components/core-focusable/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-focusable/demo.html",
+      "size": 2203,
+      "hash": "da0ea61975a8d8e9911c610c499afdf8fd905c77"
+    },
+    {
+      "path": "app/bower_components/core-focusable/polymer-mixin.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-focusable/polymer-mixin.js",
+      "size": 899,
+      "hash": "18caa9c3a765187381bd9e0ef06079e3554c6b0a"
+    },
+    {
+      "path": "app/bower_components/core-icon/.bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icon/.bower.json",
+      "size": 503,
+      "hash": "c6ca88f394e6a2e17bb5b0def74a249606cb17d1"
+    },
+    {
+      "path": "app/bower_components/core-icon/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icon/README.md",
+      "size": 139,
+      "hash": "6917c50c4bb55e66c1fc6fdb9ef25d96f70efbe1"
+    },
+    {
+      "path": "app/bower_components/core-icon/bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icon/bower.json",
+      "size": 184,
+      "hash": "6d6f6f93a2a27e916ce7d98da14b727726b93bda"
+    },
+    {
+      "path": "app/bower_components/core-icon/core-icon.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icon/core-icon.css",
+      "size": 685,
+      "hash": "f3f48face596b873232a08b89d0dd3a3bc318ad2"
+    },
+    {
+      "path": "app/bower_components/core-icon/core-icon.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icon/core-icon.html",
+      "size": 5904,
+      "hash": "c2b30502c96621f53eea3d0c697c715d51983c9f"
+    },
+    {
+      "path": "app/bower_components/core-icon/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icon/demo.html",
+      "size": 1328,
+      "hash": "d470dc3ed8d897db9566b53822e9930f67e198dd"
+    },
+    {
+      "path": "app/bower_components/core-icon/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icon/index.html",
+      "size": 749,
+      "hash": "31a1a6da546f2c243784d0ee078b2bb392d024d8"
+    },
+    {
+      "path": "app/bower_components/core-icon/metadata.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icon/metadata.html",
+      "size": 832,
+      "hash": "1325b9fd06c7b4bb9907af76b752fca9cbe3aecb"
+    },
+    {
+      "path": "app/bower_components/core-icons/.bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/.bower.json",
+      "size": 605,
+      "hash": "12d6b31a5901e481f3287c393dbfa3625944f11a"
+    },
+    {
+      "path": "app/bower_components/core-icons/.gitignore",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/.gitignore",
+      "size": 40,
+      "hash": "f2115dbcb069bf37cdd2afab8ed716810b2ba2ca"
+    },
+    {
+      "path": "app/bower_components/core-icons/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/README.md",
+      "size": 327,
+      "hash": "d3d92a434ce089f3a8106061d2cbd7ac85ae67d0"
+    },
+    {
+      "path": "app/bower_components/core-icons/av-icons.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/av-icons.html",
+      "size": 10589,
+      "hash": "eb1b5195d3a1a691e4ee8beb11bc6e61253245b8"
+    },
+    {
+      "path": "app/bower_components/core-icons/bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/bower.json",
+      "size": 283,
+      "hash": "0eb1b4f33d58f3254dc31bd46e9e3e87c0a395eb"
+    },
+    {
+      "path": "app/bower_components/core-icons/communication-icons.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/communication-icons.html",
+      "size": 10093,
+      "hash": "47bd3f1f22c9556d14372e9ec105e81ac1465d43"
+    },
+    {
+      "path": "app/bower_components/core-icons/core-icons.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/core-icons.html",
+      "size": 55440,
+      "hash": "ea0199d5320ae8cf5a674ca32e3b3fa101c89901"
+    },
+    {
+      "path": "app/bower_components/core-icons/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/demo.html",
+      "size": 2653,
+      "hash": "72aa5353e6647514529df3e8af419b195238ff30"
+    },
+    {
+      "path": "app/bower_components/core-icons/device-icons.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/device-icons.html",
+      "size": 18272,
+      "hash": "9fa7952a05bff11bace3e49456d099d8d752dbef"
+    },
+    {
+      "path": "app/bower_components/core-icons/editor-icons.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/editor-icons.html",
+      "size": 10376,
+      "hash": "ffb34682a7a7c876a2626d9fdb3b1f2618bd5699"
+    },
+    {
+      "path": "app/bower_components/core-icons/hardware-icons.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/hardware-icons.html",
+      "size": 8021,
+      "hash": "668243d709158fbf7487eed7c6a885d98095ab10"
+    },
+    {
+      "path": "app/bower_components/core-icons/image-icons.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/image-icons.html",
+      "size": 40933,
+      "hash": "7121e8fcf76cdefb3afc8c1427ab3af0c5b51565"
+    },
+    {
+      "path": "app/bower_components/core-icons/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/index.html",
+      "size": 749,
+      "hash": "31a1a6da546f2c243784d0ee078b2bb392d024d8"
+    },
+    {
+      "path": "app/bower_components/core-icons/maps-icons.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/maps-icons.html",
+      "size": 15093,
+      "hash": "a2c6b06039a2c7b355ae56572a2fde7b828f3c1a"
+    },
+    {
+      "path": "app/bower_components/core-icons/notification-icons.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/notification-icons.html",
+      "size": 10429,
+      "hash": "9dbecd9dc792e00e798ec7e98d9f1951740c79a5"
+    },
+    {
+      "path": "app/bower_components/core-icons/social-icons.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-icons/social-icons.html",
+      "size": 7660,
+      "hash": "38bef303384931552c4c343fd62a30b754ff1193"
+    },
+    {
+      "path": "app/bower_components/core-iconset-svg/.bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset-svg/.bower.json",
+      "size": 525,
+      "hash": "7fc602447c0dbdb33360c8af688c6c1a24ec5f80"
+    },
+    {
+      "path": "app/bower_components/core-iconset-svg/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset-svg/README.md",
+      "size": 153,
+      "hash": "4498f0e17fc7187db81b155a2c386b1abd7ec84e"
+    },
+    {
+      "path": "app/bower_components/core-iconset-svg/bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset-svg/bower.json",
+      "size": 185,
+      "hash": "10be8d0283e2766a104099f7d96766bc59d907fe"
+    },
+    {
+      "path": "app/bower_components/core-iconset-svg/core-iconset-svg.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset-svg/core-iconset-svg.html",
+      "size": 5309,
+      "hash": "fef3437d68b4bf2194dd93588a66c9b43572c6aa"
+    },
+    {
+      "path": "app/bower_components/core-iconset-svg/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset-svg/demo.html",
+      "size": 1782,
+      "hash": "77877e4655b94da7c0a35fd25579e1638e131b07"
+    },
+    {
+      "path": "app/bower_components/core-iconset-svg/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset-svg/index.html",
+      "size": 749,
+      "hash": "31a1a6da546f2c243784d0ee078b2bb392d024d8"
+    },
+    {
+      "path": "app/bower_components/core-iconset-svg/svg-sample-icons.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset-svg/svg-sample-icons.html",
+      "size": 5607,
+      "hash": "f917f2a66688c069dda1ef349cf0149b684a89c2"
+    },
+    {
+      "path": "app/bower_components/core-iconset/.bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset/.bower.json",
+      "size": 546,
+      "hash": "f58618246dcd18f752e56a64dc62aa2955f880bd"
+    },
+    {
+      "path": "app/bower_components/core-iconset/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset/README.md",
+      "size": 148,
+      "hash": "20f8e3ec493bc156ef94e039744b4e8dddedd972"
+    },
+    {
+      "path": "app/bower_components/core-iconset/bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset/bower.json",
+      "size": 218,
+      "hash": "a73e41f07bf68240569d69ce4919f0a095f92a3c"
+    },
+    {
+      "path": "app/bower_components/core-iconset/core-iconset.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset/core-iconset.html",
+      "size": 8364,
+      "hash": "9a63c8b0d6c7016df80911227365aca091033536"
+    },
+    {
+      "path": "app/bower_components/core-iconset/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset/demo.html",
+      "size": 2206,
+      "hash": "362c8932cd1583b63bd0522d9e1fbf0dd41d2644"
+    },
+    {
+      "path": "app/bower_components/core-iconset/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset/index.html",
+      "size": 749,
+      "hash": "31a1a6da546f2c243784d0ee078b2bb392d024d8"
+    },
+    {
+      "path": "app/bower_components/core-iconset/my-icons-big.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset/my-icons-big.png",
+      "size": 35734,
+      "hash": "230a32dbc1cbad7117a358125545b4a3a8bfe7df"
+    },
+    {
+      "path": "app/bower_components/core-iconset/my-icons.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-iconset/my-icons.png",
+      "size": 2653,
+      "hash": "5969b2536b6398e90fc55d0f2a556927aec7a9e4"
+    },
+    {
+      "path": "app/bower_components/core-meta/.bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-meta/.bower.json",
+      "size": 448,
+      "hash": "0c3ce016a9f324ff6f317d6413fa93f70ce87afe"
+    },
+    {
+      "path": "app/bower_components/core-meta/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-meta/README.md",
+      "size": 139,
+      "hash": "afa60350c25bdc888327030033e609f382b43e00"
+    },
+    {
+      "path": "app/bower_components/core-meta/bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-meta/bower.json",
+      "size": 129,
+      "hash": "80435841aabd8c3de883fb67a50d339dcbcecaa9"
+    },
+    {
+      "path": "app/bower_components/core-meta/core-meta.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-meta/core-meta.html",
+      "size": 3826,
+      "hash": "3f060a65d861ea568bc653c561598be103e0f02c"
+    },
+    {
+      "path": "app/bower_components/core-meta/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-meta/demo.html",
+      "size": 1739,
+      "hash": "f61caf8c8fe13bb8bb634d3546b9293559a3ae5b"
+    },
+    {
+      "path": "app/bower_components/core-meta/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/core-meta/index.html",
+      "size": 749,
+      "hash": "31a1a6da546f2c243784d0ee078b2bb392d024d8"
+    },
+    {
+      "path": "app/bower_components/font-roboto/.bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/font-roboto/.bower.json",
+      "size": 374,
+      "hash": "525bbc4e2e7097ba66421e90a3ca49870abebb10"
+    },
+    {
+      "path": "app/bower_components/font-roboto/roboto.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/font-roboto/roboto.html",
+      "size": 664,
+      "hash": "8337bcaa265b055bae95e1d7a191d3625482a257"
+    },
+    {
+      "path": "app/bower_components/paper-button/.bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-button/.bower.json",
+      "size": 822,
+      "hash": "00c4da144646ae0d150e33311898bbcacfc3a17d"
+    },
+    {
+      "path": "app/bower_components/paper-button/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-button/README.md",
+      "size": 160,
+      "hash": "0404e54af23dfd82b2c4b1e50c757309fb8c9415"
+    },
+    {
+      "path": "app/bower_components/paper-button/bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-button/bower.json",
+      "size": 473,
+      "hash": "6ddb815ef46b32a4ff742a697010a7ea24e6c16f"
+    },
+    {
+      "path": "app/bower_components/paper-button/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-button/demo.html",
+      "size": 3450,
+      "hash": "417c25d36325cc0a46b7a93dc9c358d77e2d901a"
+    },
+    {
+      "path": "app/bower_components/paper-button/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-button/index.html",
+      "size": 806,
+      "hash": "485b492d5552a0d49fc0f845ca7070c42aa1acd9"
+    },
+    {
+      "path": "app/bower_components/paper-button/metadata.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-button/metadata.html",
+      "size": 775,
+      "hash": "0a844e54e864d8521e8ea9853bc405848da81b1d"
+    },
+    {
+      "path": "app/bower_components/paper-button/paper-button-base.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-button/paper-button-base.html",
+      "size": 4219,
+      "hash": "85532ef2205ee6f421d6c685b0782c28a8fc91f5"
+    },
+    {
+      "path": "app/bower_components/paper-button/paper-button.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-button/paper-button.html",
+      "size": 5244,
+      "hash": "076ce90828d4c7b7606a4349810d72c772a0210a"
+    },
+    {
+      "path": "app/bower_components/paper-ripple/.bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-ripple/.bower.json",
+      "size": 650,
+      "hash": "4c2c67ad03286411b6d2567f1c58791c99c317ad"
+    },
+    {
+      "path": "app/bower_components/paper-ripple/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-ripple/README.md",
+      "size": 153,
+      "hash": "9466a33c778451387c2cfae4ebca88f7c58ea083"
+    },
+    {
+      "path": "app/bower_components/paper-ripple/bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-ripple/bower.json",
+      "size": 322,
+      "hash": "ff37530d5196a6a9aeb4816a3eb6f53ff9327275"
+    },
+    {
+      "path": "app/bower_components/paper-ripple/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-ripple/demo.html",
+      "size": 9522,
+      "hash": "a92c617c1f1e84c7053ca427b8e590a192011986"
+    },
+    {
+      "path": "app/bower_components/paper-ripple/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-ripple/index.html",
+      "size": 749,
+      "hash": "31a1a6da546f2c243784d0ee078b2bb392d024d8"
+    },
+    {
+      "path": "app/bower_components/paper-ripple/metadata.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-ripple/metadata.html",
+      "size": 797,
+      "hash": "0f2ed54d46974ec320489ab953913b83da15cf35"
+    },
+    {
+      "path": "app/bower_components/paper-ripple/paper-ripple.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-ripple/paper-ripple.html",
+      "size": 14446,
+      "hash": "a97d326eb000478767a5d45921379b0dc6eaaab6"
+    },
+    {
+      "path": "app/bower_components/paper-shadow/.bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-shadow/.bower.json",
+      "size": 554,
+      "hash": "bcc7ae846a53772e635e34b22e36f8c4a402ed39"
+    },
+    {
+      "path": "app/bower_components/paper-shadow/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-shadow/README.md",
+      "size": 149,
+      "hash": "731e8192c1b1f896517a3db8280ebf7f80075824"
+    },
+    {
+      "path": "app/bower_components/paper-shadow/bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-shadow/bower.json",
+      "size": 226,
+      "hash": "35277d7439a4d4dfc9686c5fbd1fc2f9b8766aba"
+    },
+    {
+      "path": "app/bower_components/paper-shadow/demo.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-shadow/demo.html",
+      "size": 2558,
+      "hash": "3ca19958890842ad5307248142de2d0fe2a01894"
+    },
+    {
+      "path": "app/bower_components/paper-shadow/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-shadow/index.html",
+      "size": 749,
+      "hash": "31a1a6da546f2c243784d0ee078b2bb392d024d8"
+    },
+    {
+      "path": "app/bower_components/paper-shadow/metadata.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-shadow/metadata.html",
+      "size": 804,
+      "hash": "f611428c7d9f2621341d5c9d9a4516e1c6cca6b0"
+    },
+    {
+      "path": "app/bower_components/paper-shadow/paper-shadow.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-shadow/paper-shadow.css",
+      "size": 1820,
+      "hash": "7d0154bb28d04d69f8e4b77a4d214d8291cb68a2"
+    },
+    {
+      "path": "app/bower_components/paper-shadow/paper-shadow.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-shadow/paper-shadow.html",
+      "size": 2316,
+      "hash": "56cdccfa0a4180291b14fe5a9005f14e58af2c97"
+    },
+    {
+      "path": "app/bower_components/polymer/.bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/polymer/.bower.json",
+      "size": 983,
+      "hash": "efb419bcf08b19a3e7f55519a0187a5ebb9bbc87"
+    },
+    {
+      "path": "app/bower_components/polymer/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/polymer/README.md",
+      "size": 1338,
+      "hash": "6118743e73876e4ebd94343c24d5cbbc0652c3af"
+    },
+    {
+      "path": "app/bower_components/polymer/bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/polymer/bower.json",
+      "size": 722,
+      "hash": "abd2391fb8d7fe0193a69182a4b8e12d975497e0"
+    },
+    {
+      "path": "app/bower_components/polymer/build.log",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/polymer/build.log",
+      "size": 684,
+      "hash": "1e9619ca5a7f83e9713ef385bae7cfab2a7ca201"
+    },
+    {
+      "path": "app/bower_components/polymer/layout.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/polymer/layout.html",
+      "size": 5963,
+      "hash": "348d358a91712ecc2f8811efa430fcd954b4590c"
+    },
+    {
+      "path": "app/bower_components/polymer/polymer.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/polymer/polymer.html",
+      "size": 580,
+      "hash": "44194508fca6f3187c5db3602c72fb03bb6055b8"
+    },
+    {
+      "path": "app/bower_components/polymer/polymer.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/polymer/polymer.js",
+      "size": 344456,
+      "hash": "0238138d46a41de3724926295213f1babf66ed41"
+    },
+    {
+      "path": "app/bower_components/polymer/polymer.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/polymer/polymer.min.js",
+      "size": 124048,
+      "hash": "d5907053e8535c422393aa240e9026ffe0b5fefc"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/.bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/.bower.json",
+      "size": 525,
+      "hash": "999da9f8040964516d5785b7e1a78756bb36ab4a"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/CustomElements.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/CustomElements.js",
+      "size": 19562,
+      "hash": "939c4b32847bf8085532995428001c3402f96cff"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/CustomElements.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/CustomElements.min.js",
+      "size": 9813,
+      "hash": "cb3fd472ea0a9c45f5f03f86a6c5083f5077e907"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/HTMLImports.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/HTMLImports.js",
+      "size": 24162,
+      "hash": "018bc32bc02bc6dc7dcacbd409438b26c31c2e6d"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/HTMLImports.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/HTMLImports.min.js",
+      "size": 13228,
+      "hash": "a3cb3e4ded3d708ba8333a8d5927ec93587fc191"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/README.md",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/README.md",
+      "size": 2834,
+      "hash": "1ead5838415930b21175f12146cdc5f7e949efe9"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/ShadowDOM.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/ShadowDOM.js",
+      "size": 151840,
+      "hash": "e34e8e3707d015a0ac9ec718d17b93c54500d028"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/ShadowDOM.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/ShadowDOM.min.js",
+      "size": 68813,
+      "hash": "b3c2f09259d03ec44bd08ebbe9ed67dae3a06aaf"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/bower.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/bower.json",
+      "size": 248,
+      "hash": "fd23f409fea8f764559f8659eba3c570fdb121ca"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/build.log",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/build.log",
+      "size": 973,
+      "hash": "43ffe9a0b10fd4ef7866b2cd228e388821d4b001"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/package.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/package.json",
+      "size": 762,
+      "hash": "7f0424f37b15d566577adc8cebba147e3ed00e98"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/webcomponents-lite.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/webcomponents-lite.js",
+      "size": 55483,
+      "hash": "83f6c69c9f38d6c88b1717427e713e57a96e7d70"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/webcomponents-lite.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/webcomponents-lite.min.js",
+      "size": 28439,
+      "hash": "d369074b523ff3806e7f71770a4d360f33331d48"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/webcomponents.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/webcomponents.js",
+      "size": 223007,
+      "hash": "b91a9a8ae8c79bfc0275a766f3153f390ef74d81"
+    },
+    {
+      "path": "app/bower_components/webcomponentsjs/webcomponents.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/webcomponentsjs/webcomponents.min.js",
+      "size": 101208,
+      "hash": "91901c97731fc010ba5bb43624aa37d5320071c4"
+    },
+    {
+      "path": "app/bower_components/paper-button/test/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-button/test/index.html",
+      "size": 879,
+      "hash": "b84c48ee367a7f87066c3b013910bf1239944e40"
+    },
+    {
+      "path": "app/bower_components/paper-button/test/paper-button.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-button/test/paper-button.html",
+      "size": 3399,
+      "hash": "74111f0fb81875fa52006e6f8133d7b06eebcabe"
+    },
+    {
+      "path": "app/bower_components/paper-ripple/test/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-ripple/test/index.html",
+      "size": 862,
+      "hash": "704b77224d5797425338432c6f5bbca809b99bd5"
+    },
+    {
+      "path": "app/bower_components/paper-ripple/test/position.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-ripple/test/position.html",
+      "size": 2904,
+      "hash": "4bc0049483ee79cd02bdc6dea54d34a264320d58"
+    },
+    {
+      "path": "app/bower_components/paper-shadow/test/basic.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-shadow/test/basic.html",
+      "size": 1760,
+      "hash": "f2b98764ea9f3e62ba036d4a665df1df97467092"
+    },
+    {
+      "path": "app/bower_components/paper-shadow/test/index.html",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bower_components/paper-shadow/test/index.html",
+      "size": 872,
+      "hash": "35dd607f200540640d5d8f3e3b1550aca1e905d0"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "4ed1a53b5e97f95d2873f9e6a167a4676050a575"
+    }
+  ]
+}

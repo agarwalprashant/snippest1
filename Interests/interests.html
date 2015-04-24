@@ -1,0 +1,8 @@
+<template name="interests">
+    {{>nav}}
+    <h2>A List Of Blog Posts</h2>
+    {{#each posts}}
+        <h4>{{ title }}</h4>
+        <p>{{ text }}</p>
+    {{/each}}
+</template>

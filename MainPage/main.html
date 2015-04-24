@@ -1,0 +1,13 @@
+<template name="main">
+ <input type="hidden" name="updated" value="{{updated}}" id="updated">
+
+
+    <div class="container-fluid">
+        <ul>
+            {{#each articles}}
+                {{>article}}
+            {{/each}}
+        </ul>
+    </div>
+
+</template>

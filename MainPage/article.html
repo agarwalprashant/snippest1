@@ -1,0 +1,21 @@
+<template name="article">
+    <div class="item well span4">
+        <img height="{{height}}" src ='/{{thumb}}'/>
+
+        <a href="#"><h4 class="muted">{{name}}</h4></a>
+            <p>{{desc}}</p>
+        ({{likes}} People like this)
+      <a href="#" class="like"><img src='/button.png' height="22px" width="22px" /></a>
+        <a href="#" class="unlike"><img src='/unlike.jpg' height="22px" width="22px" /></a>
+
+
+    {{#if currentuser}}
+        <span class="label label-info">{{numlikes}}</span>
+        <span class="badge badge-success">{{likesthis}}</span>
+    {{/if}}
+
+    </div>
+
+
+
+</template>
